@@ -2,7 +2,7 @@
 
 import java.util.Scanner
 
-fun main() {
+fun main(args : Array<String>) {
     val myScanner : Scanner = Scanner(System.`in`)
 
     val num1 : Int = myScanner.nextInt()

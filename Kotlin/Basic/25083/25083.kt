@@ -1,4 +1,4 @@
-fun main() = print(
+fun main(args : Array<String>) = print(
 """
 |         ,r'"7
 |r`-_   ,'  ,/

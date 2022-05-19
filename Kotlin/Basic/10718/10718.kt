@@ -1,5 +1,4 @@
-fun main()  = print(
-"""
+fun main(args : Array<String>)  = print("""
 |\    /\
 | )  ( ')
 |(  /  )
