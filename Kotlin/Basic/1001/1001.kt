@@ -1,6 +1,13 @@
-fun main() = println(readLine()!!.split(' '))
+import java.util.Scanner
 
+fun main() {
+    val myScanner : Scanner = Scanner(System.`in`)
+
+    val num1 : Int = myScanner.nextInt()
+    val num2 : Int = myScanner.nextInt()
+
+    println(num1 - num2)
+}
 /**
- * minOf는 두 값중 작은값을 반환하며, 같은 값이면 앞에 값을 반환한다.
- * 그래서 it[1]이 안되는 것 이다.
+ * readline이 scanner보다 좀 더 쓰기 애매한 부분이 있어서 scanner로 변경해서 사용함.
  */
