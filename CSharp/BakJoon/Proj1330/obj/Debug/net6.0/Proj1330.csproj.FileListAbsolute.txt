@@ -1,0 +1,15 @@
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Proj1330\bin\Debug\net6.0\Proj1330.exe
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Proj1330\bin\Debug\net6.0\Proj1330.deps.json
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Proj1330\bin\Debug\net6.0\Proj1330.runtimeconfig.json
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Proj1330\bin\Debug\net6.0\Proj1330.dll
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Proj1330\bin\Debug\net6.0\Proj1330.pdb
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Proj1330\obj\Debug\net6.0\Proj1330.csproj.AssemblyReference.cache
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Proj1330\obj\Debug\net6.0\Proj1330.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Proj1330\obj\Debug\net6.0\Proj1330.AssemblyInfoInputs.cache
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Proj1330\obj\Debug\net6.0\Proj1330.AssemblyInfo.cs
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Proj1330\obj\Debug\net6.0\Proj1330.csproj.CoreCompileInputs.cache
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Proj1330\obj\Debug\net6.0\Proj1330.dll
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Proj1330\obj\Debug\net6.0\refint\Proj1330.dll
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Proj1330\obj\Debug\net6.0\Proj1330.pdb
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Proj1330\obj\Debug\net6.0\Proj1330.genruntimeconfig.cache
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Proj1330\obj\Debug\net6.0\ref\Proj1330.dll

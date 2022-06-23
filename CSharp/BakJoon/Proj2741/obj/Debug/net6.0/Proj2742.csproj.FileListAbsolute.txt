@@ -1,0 +1,15 @@
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Proj2742\bin\Debug\net6.0\Proj2742.exe
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Proj2742\bin\Debug\net6.0\Proj2742.deps.json
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Proj2742\bin\Debug\net6.0\Proj2742.runtimeconfig.json
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Proj2742\bin\Debug\net6.0\Proj2742.dll
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Proj2742\bin\Debug\net6.0\Proj2742.pdb
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Proj2742\obj\Debug\net6.0\Proj2742.csproj.AssemblyReference.cache
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Proj2742\obj\Debug\net6.0\Proj2742.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Proj2742\obj\Debug\net6.0\Proj2742.AssemblyInfoInputs.cache
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Proj2742\obj\Debug\net6.0\Proj2742.AssemblyInfo.cs
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Proj2742\obj\Debug\net6.0\Proj2742.csproj.CoreCompileInputs.cache
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Proj2742\obj\Debug\net6.0\Proj2742.dll
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Proj2742\obj\Debug\net6.0\refint\Proj2742.dll
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Proj2742\obj\Debug\net6.0\Proj2742.pdb
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Proj2742\obj\Debug\net6.0\Proj2742.genruntimeconfig.cache
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Proj2742\obj\Debug\net6.0\ref\Proj2742.dll
