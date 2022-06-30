@@ -13,3 +13,18 @@ D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Proj2753\obj\Debug\net6.0\refint\Pro
 D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Proj2753\obj\Debug\net6.0\Proj2753.pdb
 D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Proj2753\obj\Debug\net6.0\Proj2753.genruntimeconfig.cache
 D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Proj2753\obj\Debug\net6.0\ref\Proj2753.dll
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Basic Algorithm\Proj2753\bin\Debug\net6.0\Proj2753.exe
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Basic Algorithm\Proj2753\bin\Debug\net6.0\Proj2753.deps.json
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Basic Algorithm\Proj2753\bin\Debug\net6.0\Proj2753.runtimeconfig.json
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Basic Algorithm\Proj2753\bin\Debug\net6.0\Proj2753.dll
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Basic Algorithm\Proj2753\bin\Debug\net6.0\Proj2753.pdb
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Basic Algorithm\Proj2753\obj\Debug\net6.0\Proj2753.csproj.AssemblyReference.cache
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Basic Algorithm\Proj2753\obj\Debug\net6.0\Proj2753.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Basic Algorithm\Proj2753\obj\Debug\net6.0\Proj2753.AssemblyInfoInputs.cache
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Basic Algorithm\Proj2753\obj\Debug\net6.0\Proj2753.AssemblyInfo.cs
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Basic Algorithm\Proj2753\obj\Debug\net6.0\Proj2753.csproj.CoreCompileInputs.cache
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Basic Algorithm\Proj2753\obj\Debug\net6.0\Proj2753.dll
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Basic Algorithm\Proj2753\obj\Debug\net6.0\refint\Proj2753.dll
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Basic Algorithm\Proj2753\obj\Debug\net6.0\Proj2753.pdb
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Basic Algorithm\Proj2753\obj\Debug\net6.0\Proj2753.genruntimeconfig.cache
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Basic Algorithm\Proj2753\obj\Debug\net6.0\ref\Proj2753.dll

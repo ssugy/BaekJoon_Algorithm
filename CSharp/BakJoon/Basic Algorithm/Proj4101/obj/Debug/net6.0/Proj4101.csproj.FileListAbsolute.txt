@@ -1,0 +1,15 @@
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Basic Algorithm\Proj4101\bin\Debug\net6.0\Proj4101.exe
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Basic Algorithm\Proj4101\bin\Debug\net6.0\Proj4101.deps.json
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Basic Algorithm\Proj4101\bin\Debug\net6.0\Proj4101.runtimeconfig.json
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Basic Algorithm\Proj4101\bin\Debug\net6.0\Proj4101.dll
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Basic Algorithm\Proj4101\bin\Debug\net6.0\Proj4101.pdb
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Basic Algorithm\Proj4101\obj\Debug\net6.0\Proj4101.csproj.AssemblyReference.cache
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Basic Algorithm\Proj4101\obj\Debug\net6.0\Proj4101.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Basic Algorithm\Proj4101\obj\Debug\net6.0\Proj4101.AssemblyInfoInputs.cache
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Basic Algorithm\Proj4101\obj\Debug\net6.0\Proj4101.AssemblyInfo.cs
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Basic Algorithm\Proj4101\obj\Debug\net6.0\Proj4101.csproj.CoreCompileInputs.cache
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Basic Algorithm\Proj4101\obj\Debug\net6.0\Proj4101.dll
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Basic Algorithm\Proj4101\obj\Debug\net6.0\refint\Proj4101.dll
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Basic Algorithm\Proj4101\obj\Debug\net6.0\Proj4101.pdb
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Basic Algorithm\Proj4101\obj\Debug\net6.0\Proj4101.genruntimeconfig.cache
+D:\GitHub\BaekJoon_Algorithm\CSharp\BakJoon\Basic Algorithm\Proj4101\obj\Debug\net6.0\ref\Proj4101.dll
