@@ -1,0 +1,6 @@
+int n = int.Parse(Console.ReadLine());
+for (int i = 0; i < n; i++)
+{
+    int a = int.Parse(Console.ReadLine());
+    Console.WriteLine((a*a+2*a+1)/4);
+}
