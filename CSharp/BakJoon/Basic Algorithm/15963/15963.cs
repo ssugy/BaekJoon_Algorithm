@@ -8,4 +8,5 @@ else
 var s = Console.ReadLine().Split();
 Console.WriteLine(s[0] == s[1] ? 1 : 0);
 
- // 이런식으로 var을 사용하는 것 long형 배열로 자동 변환된다.*/
+ // 이런식으로 var을 사용하는 것 long형 배열로 자동 변환된다.(x)
+ // 이거 string배열로 변환되는 것이다. long배열 아님.*/
