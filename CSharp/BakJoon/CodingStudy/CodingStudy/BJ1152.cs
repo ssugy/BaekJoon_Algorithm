@@ -9,7 +9,7 @@ namespace CodingStudy
 {
     internal class BJ1152
     {
-        public static void Main()
+        public static void _Main()
         {
             // 내가 제출한 정답
             StreamReader sr = new StreamReader(new BufferedStream(Console.OpenStandardInput()));
