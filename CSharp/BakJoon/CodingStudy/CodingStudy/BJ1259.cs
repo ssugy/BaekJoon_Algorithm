@@ -9,7 +9,7 @@ namespace CodingStudy
 {
     internal class BJ1259
     {
-        public static void Main()
+        public static void _Main()
         {
             StreamReader sr = new StreamReader(new BufferedStream(Console.OpenStandardInput()));
             StreamWriter sw = new StreamWriter(new BufferedStream(Console.OpenStandardOutput()));
