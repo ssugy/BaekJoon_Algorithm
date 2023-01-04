@@ -46,6 +46,7 @@
     <Compile Include="BJ1152.cs" />
     <Compile Include="BJ1259.cs" />
     <Compile Include="BJ1264.cs" />
+    <Compile Include="BJ1371.cs" />
     <Compile Include="BJ25372.cs" />
     <Compile Include="BJ25304.cs" />
     <Compile Include="Program.cs" />
