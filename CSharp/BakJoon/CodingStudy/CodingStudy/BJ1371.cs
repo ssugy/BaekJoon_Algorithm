@@ -9,7 +9,7 @@ namespace CodingStudy
 {
     internal class BJ1371
     {
-        public static void Main()
+        public static void _Main()
         {
             string sentence = string.Empty;
             int[] chars = new int[28];
