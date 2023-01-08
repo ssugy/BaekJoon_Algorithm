@@ -9,7 +9,7 @@ namespace CodingStudy
 {
     internal class _1547
     {
-        public static void Main()
+        public static void _Main()
         {
             // 아스키코드 49(1) 50(2) 51(3)
             char[] arr = new char[3] { '1', '0', '0' };
