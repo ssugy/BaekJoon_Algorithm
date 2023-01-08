@@ -9,7 +9,7 @@ namespace CodingStudy
 {
     internal class _1568
     {
-        public static void Main()
+        public static void _Main()
         {
             int a = int.Parse(Console.ReadLine());
             int resultCnt = 0;
