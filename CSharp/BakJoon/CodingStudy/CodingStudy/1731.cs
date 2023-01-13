@@ -8,7 +8,7 @@ namespace CodingStudy
 {
     internal class _1731
     {
-        public static void Main()
+        public static void _Main()
         {
             int MAX = int.Parse(Console.ReadLine());
             int[] arr = new int[MAX];
