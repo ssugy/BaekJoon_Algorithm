@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="10807.cs" />
     <Compile Include="1547.cs" />
     <Compile Include="1568.cs" />
     <Compile Include="1731.cs" />

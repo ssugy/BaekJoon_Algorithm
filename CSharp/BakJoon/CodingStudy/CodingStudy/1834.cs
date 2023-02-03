@@ -17,7 +17,7 @@ namespace CodingStudy
          * 몫과 나머지가 같은 값이라고 가정하고 1부터 n-1인 값들 중에서 찾으면 된다.
          * 안그려면 시간오버 뜬다.
          */
-        public static void Main()
+        public static void _Main()
         {
             ulong n = ulong.Parse(Console.ReadLine());
             ulong total = 0;
