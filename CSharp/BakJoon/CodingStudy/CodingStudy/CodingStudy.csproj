@@ -54,6 +54,7 @@
     <Compile Include="BJ1371.cs" />
     <Compile Include="BJ25372.cs" />
     <Compile Include="BJ25304.cs" />
+    <Compile Include="D_1864.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="BJ3003.cs" />

@@ -8,7 +8,7 @@ namespace CodingStudy
 {
     internal class _10807
     {
-        public static void Main()
+        public static void _Main()
         {
             Console.ReadLine();
             int[] t = Array.ConvertAll(Console.ReadLine().Split(), int.Parse);
