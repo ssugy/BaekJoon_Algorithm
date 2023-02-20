@@ -8,7 +8,7 @@ namespace CodingStudy
 {
     internal class D_1864
     {
-        public static void Main()
+        public static void _Main()
         {
             while (true)
             {
